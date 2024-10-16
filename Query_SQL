@@ -15,3 +15,6 @@ SELECT id, firstName, lastName /* get the students id and name here */
 FROM Student;
 
 SELECT * FROM Student;
+
+
+SELECT DISTINCT Country FROM Customers; /* Select all the different values from the Country column in the Customers table. */
