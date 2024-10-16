@@ -1,0 +1,11 @@
+SQL STATEMENT
+        keyword     identifier      expression
+clause: SELECT      NAME 
+clause: FROM        USERS
+clause: WHERE       ROLE        =   'MANAGER'; (condition)
+
+comment: --
+
+select *
+-- select all --
+
